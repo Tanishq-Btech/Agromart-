@@ -65,13 +65,6 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 🔐 Demo Login Credentials
-
-| Role     | Email                    | Password    |
-|----------|--------------------------|-------------|
-| Admin    | admin@agromart.com       | admin123    |
-| Farmer   | ramesh@farm.com          | farmer123   |
-| Customer | priya@example.com        | customer123 |
 
 ---
 
